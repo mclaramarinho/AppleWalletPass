@@ -1,0 +1,70 @@
+{
+  "formatVersion": 1,
+  "passTypeIdentifier": "pass.com.example.planobradesco", // get on apple developer program
+  "serialNumber": "1", // unique
+  "teamIdentifier": "ClaraMarinho", //The Team ID for the Apple Developer Program
+  "organizationName": "ClaraMarinhoDev",
+  "expirationDate": "2026-10-31T23:59:59Z",
+  "description": "Carteirinha do plano de saúde e odontológico Bradesco.",
+  "foregroundColor": "rgb(0, 0, 0)",
+  "backgroundColor": "rgb(0, 122, 255)",
+  "sharingProhibited": true,
+  "labelColor": "rgb(0, 0, 0)",
+  "labelColor": "rgb(0, 0, 0)",
+  
+  "generic": {
+    "headerFields": [],
+    "primaryFields": [
+      {
+        "key": "insurance-number",
+        "label": "774 247 050393 001",
+        "value": ""
+      },
+      {
+        "key": "name",
+        "label": "MARIA CLARA MARINHO BARRETO",
+        "value": ""
+      },
+      {
+        "key": "health-insurance-type",
+        "label": "",
+        "value": "NACIONAL FLEX"
+      },
+      {
+        "key": "health-insurance-coverage",
+        "label": "",
+        "value": "AMBULATORIAL + HOSPITALAR C OBSTETRÍCIA"
+      },
+    ],
+    "secondaryFields": [
+      {
+        "key": "company-name",
+        "label": "EMPRESARIAL",
+        "value": "AVANADE DO BRASIL"
+      },
+      {
+        "key": "insurance-type-full",
+        "label": "SAÚDE TOP",
+        "value": "NACIONAL FLEX"
+      },
+      {
+        "key": "expiry-date",
+        "label": "VÁLIDO ATÉ:",
+        "value": "10/26"
+      },
+    ],
+    "auxiliaryFields": [],
+    "backFields": [
+      {
+        "key": "sus-card-number",
+        "label": "Cartão Nacional de Saúde:",
+        "value": "702 904 565 875 473"
+      },
+      {
+        "key": "dental-insurance",
+        "label": "Plano Odontológico:",
+        "value": "793 872 041335 006 - ESSENCIAL TOP"
+      }
+    ]
+  }
+}
